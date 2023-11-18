@@ -1,0 +1,1 @@
+SELECT ID, StudentName Name, Address Addy, City Hood, PostalCode Zip, Country FROM Students;
